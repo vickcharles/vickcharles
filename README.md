@@ -3,4 +3,4 @@
 # Hi 👋, I'm Vickler!
 
 - Web3 & Mobile Software Engineer
-- Currently building [PushCola](https://www.pushcola.com), my personal Web3 Social Marketing Protocol project
+- Currently building [PushCola](https://www.pushcola.com)
