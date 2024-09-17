@@ -3,5 +3,6 @@
 # Hi 👋, I'm Vickler!
 
  * Software Engineer | Web3 & Mobile Specialist
- * Currently, I am expanding my expertise into systme design & Web3 technology through my personal project, PushCola.com
+ * Currently, I am expanding my expertise into Web3 technology through my personal project, [pushcola.com](https://pushcola.com).
+
 
