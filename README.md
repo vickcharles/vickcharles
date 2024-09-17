@@ -3,6 +3,6 @@
 # Hi 👋, I'm Vickler!
 
  * Software Engineer; Web3 & Mobile Specialist
- * Currently, I’m working on [pushcola.com](https://pushcola.com), a project that’s expanding my expertise in Web3 and system design.
+ * Currently, I’m working on [pushcola.com](https://pushcola.com), a personal project that’s expanding my expertise in Web3 and system design.
 
 
