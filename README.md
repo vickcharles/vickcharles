@@ -3,5 +3,4 @@
 # Hi 👋, I'm Vickler!
 
  * Software Engineer | Web3 & Mobile Specialist
- * Currently Building [PushCola.com](https://PushCola.com)
 
