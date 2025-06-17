@@ -1,5 +1,5 @@
 My name is Vickler Charles. 
-Im a Software Engineer based in Barcelona, Spain.
+I'm a Software Engineer based in Barcelona, Spain.
 
 Any Questions please refer to me directly
 
